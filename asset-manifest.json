@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adeline/static/css/main.b3a68a9e.css",
+    "main.js": "/adeline/static/js/main.29d382c5.js",
+    "static/js/787.f1442841.chunk.js": "/adeline/static/js/787.f1442841.chunk.js",
+    "index.html": "/adeline/index.html",
+    "main.b3a68a9e.css.map": "/adeline/static/css/main.b3a68a9e.css.map",
+    "main.29d382c5.js.map": "/adeline/static/js/main.29d382c5.js.map",
+    "787.f1442841.chunk.js.map": "/adeline/static/js/787.f1442841.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a68a9e.css",
+    "static/js/main.29d382c5.js"
+  ]
+}
