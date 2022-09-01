@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/adeline/static/css/main.b3f53bf6.css",
+    "main.css": "/adeline/static/css/main.8f51fe1d.css",
     "main.js": "/adeline/static/js/main.ae55b8c3.js",
     "static/js/787.f1442841.chunk.js": "/adeline/static/js/787.f1442841.chunk.js",
     "static/media/jardin.jpg": "/adeline/static/media/jardin.ac41b959dd8ceca030d6.jpg",
     "index.html": "/adeline/index.html",
-    "main.b3f53bf6.css.map": "/adeline/static/css/main.b3f53bf6.css.map",
+    "main.8f51fe1d.css.map": "/adeline/static/css/main.8f51fe1d.css.map",
     "main.ae55b8c3.js.map": "/adeline/static/js/main.ae55b8c3.js.map",
     "787.f1442841.chunk.js.map": "/adeline/static/js/787.f1442841.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3f53bf6.css",
+    "static/css/main.8f51fe1d.css",
     "static/js/main.ae55b8c3.js"
   ]
 }
